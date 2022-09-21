@@ -22,12 +22,13 @@ h3 {
 a {
   color: red;
 }
-a:hover {
-  color: yellow;
-}
 a:visited {
   color:green;
 }
+a:hover {
+  color: yellow;
+}
+
 h2 {
   color:orange;
   font-style: italic;

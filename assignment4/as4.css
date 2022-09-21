@@ -78,3 +78,6 @@ background-image: url(ISULogo2.png);
 background-repeat: no-repeat;
 background-position:  top right;
 }
+.textjustify {
+text-align: justify;
+}

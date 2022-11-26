@@ -38,11 +38,12 @@ aside {
   grid-column: span 12;
   color: white;
 }
-aside img {
-  width: 25%;
+footer img {
+  width: 90%;
 }
 aside h2 {
   text-align: center;
+  font-size: 50px;
 }
 aside h3 {
   text-align: center;
@@ -142,4 +143,9 @@ footer a{
 
   background-color: Black;
   border-radius: 6px;
+}
+main p {
+  text-align: justify;
+  font-size: 20px;
+  font-family: Times New Roman, Helvetica;
 }

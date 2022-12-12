@@ -33,6 +33,12 @@ header img{
   float:right;
   width: 100px;
   height: 100px;
+  border: 2px solid #313131;
+  transition:border 1.5s;
+}
+header img:hover {
+  border: 2px solid green;
+  transition:border 1.5s;
 }
 aside {
   grid-column: span 12;
@@ -148,4 +154,15 @@ main p {
   text-align: justify;
   font-size: 20px;
   font-family: Times New Roman, Helvetica;
+}
+header a {
+  color: White;
+  transition:color 1.5s;
+}
+header a:hover {
+  color: Green;
+  transition:color 1.5s;
+}
+header h1{
+  font-size: 45px;
 }

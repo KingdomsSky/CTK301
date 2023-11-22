@@ -143,7 +143,7 @@ footer a{
   justify-content: center;
 
   width: 80%;
-  height: 430px;
+  height: 700px;
   margin-right: 6px;
 
   background-color: Black;
@@ -233,4 +233,7 @@ header h1{
 }
 .BigWork {
   width: 40%;
+}
+.LargeWork{
+  width: 80%;
 }

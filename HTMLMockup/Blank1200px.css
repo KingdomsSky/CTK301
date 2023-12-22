@@ -143,7 +143,7 @@ footer a{
   justify-content: center;
 
   width: 80%;
-  height: 700px;
+  height: 600px;
   margin-right: 6px;
 
   background-color: Black;
@@ -227,6 +227,9 @@ header h1{
 }
 .Highlight {
   font-size: 50px;
+}
+.HighWords {
+  font-size: 35px;
 }
 .Work {
   width: 20%;

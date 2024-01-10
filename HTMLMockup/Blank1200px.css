@@ -191,6 +191,10 @@ main a:hover{
   text-align: left;
   font-size: 25px;
 }
+.LinkHigh {
+  text-align: center;
+  font-size: 25px;
+}
 .floatimgDN {
   float:right;
   border: 4px solid Green;
